@@ -14,12 +14,12 @@
   margin: 0px;
   padding: 0px;
   text-decoration: none;
+  color: var(--white);
 }
 
 /* body */
 body {
   background-color: var(--offBlack);
-  color: var(--white);
   font-family: "Inter", sans-serif;
   min-height: 100vh;
   display: flex;
