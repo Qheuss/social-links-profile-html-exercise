@@ -1,0 +1,9 @@
+main a {
+  min-width: 0;
+}
+
+/* attribution */
+.attribution,
+.attribution a {
+  font-size: 1.2rem;
+}
