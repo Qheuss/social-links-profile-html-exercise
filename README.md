@@ -9,7 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Author](#author)
+- [Author](#author)
 
 ## Overview
 
